@@ -1,0 +1,8 @@
+# Notion / 飞书式浅色主题 — 与 app.py 内的自定义 CSS 配套
+[theme]
+base = "light"
+primaryColor = "#2383e2"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f7f7f5"
+textColor = "#37352f"
+font = "sans serif"
